@@ -4,3 +4,4 @@ ipyvolume
 nbinteract
 voila
 voila-vuetify
+ipyvuetify
