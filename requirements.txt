@@ -5,3 +5,5 @@ nbinteract
 voila
 voila-vuetify
 ipyvuetify
+bqplot
+matplotlib
