@@ -2,3 +2,5 @@ numpy
 ipywidgets
 ipyvolume
 nbinteract
+voila
+voila-vuetify
